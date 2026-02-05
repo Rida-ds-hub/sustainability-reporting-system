@@ -53,10 +53,11 @@ The project follows a deliberate lifecycle, similar to a consulting or internal 
 
 ## Project structure
 
+```
 sustainability-reporting-system/
-│
 ├── 01_problem_framing/
-│   └── Sustainability_Reporting_Overview.pdf # Framing deck that defines the problem, users, and reporting structure
+│   └── Sustainability_Reporting_Overview.pdf
+│      # Framing deck that defines the problem, users, and reporting structure
 │
 ├── 02_artefacts/
 │   ├── KPI_Catalogue.xlsx
@@ -77,13 +78,14 @@ sustainability-reporting-system/
 │       └── Methods.png
 │
 └── writeup/
-├── 01_problem_statement.md
-├── 02_project_scope_and_users.md
-├── 03_kpi_and_reporting_design.md
-├── 04_data_modeling_decisions.md
-├── 05_dashboard_page_rationale.md
-├── 06_assumptions_and_limitations.md
-└── 07_future_extensions.md
+    ├── 01_problem_statement.md
+    ├── 02_project_scope_and_users.md
+    ├── 03_kpi_and_reporting_design.md
+    ├── 04_data_modeling_decisions.md
+    ├── 05_dashboard_page_rationale.md
+    ├── 06_assumptions_and_limitations.md
+    └── 07_future_extensions.md
+```
 
 ---
 ## Start here
